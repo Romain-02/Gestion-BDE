@@ -1,0 +1,14 @@
+
+’
+java:S1192%"ODefine a constant instead of duplicating this literal "view/menu.fxml" 4 times.(ª–—8¢ùÅ£…2J$90c6c04f-dbe2-42e8-8d03-6df1bcc47165
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²·®œ8À¤Á£…2J$a4de9508-e7a9-4314-89f3-ea60dbbca39e
+
+java:S1450"VRemove the "gestion" field and declare it as a local variable in the relevant methods.(ğºÙòøÿÿÿÿ8Ô¤Á£…2J$aa176b9e-0e4a-4c67-90b0-87d5b2104d0a
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Íößÿùÿÿÿÿ8Ø¤Á£…2J$10f2316a-4c8a-4899-a6bd-1deee45db2e0
+
+java:S18712"HThis case's code block is the same as the block for the case on line 43.(úâúÿÿÿÿ8¿ùÅ£…2J$237e72b3-d9d2-456f-8f89-3791e8030d43
+
+java:S18719"HThis case's code block is the same as the block for the case on line 43.(‰ÆÄÎşÿÿÿÿ8¿ùÅ£…2J$de0fd30f-5dab-4144-9787-12012b6316eb
+m	java:S106D"+Replace this use of System.out by a logger.(ÓáçÈ8ñ¤Á£…2J$acfc80cc-7796-4c03-8ad1-84881f2ab2ce
+s
+java:S1068"+Remove this unused "gestion" private field.(ğºÙòøÿÿÿÿ8ò¤Á£…2J$50a7297e-704c-4d37-bcf3-0e11cb212c20

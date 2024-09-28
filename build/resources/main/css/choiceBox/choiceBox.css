@@ -1,0 +1,39 @@
+/* CSS */
+.choice-box{
+    -fx-text-fill: rgba(230, 230, 230);
+    -fx-background-color: #9B62F3, #1a1a2e;
+    -fx-background-insets: 1px, 4px;
+    -fx-background-radius: 10px, 10px;
+    -fx-color: #FFFFFF;
+    -fx-display: flex;
+    -fx-font-family: "Comic Sans MS", sans-serif;
+    -fx-font-size: 17px;
+    -fx-alignment: center;
+}
+
+.choice-box .context-menu{
+    -fx-background-color: #9B62F3, #1a1a2e;
+    -fx-background-insets: 1px, 4px;
+    -fx-background-radius: 10px, 10px;
+}
+
+.choice-box .menu-item > * {
+    -fx-text-fill: rgba(230, 230, 230);
+    -fx-font-family: "Comic Sans MS", sans-serif;
+    -fx-font-size: 17px;
+    -fx-text-alignment: center;
+}
+
+.choice-box .menu-item:focused > * {
+    -fx-text-fill: rgba(30, 30, 30);
+}
+
+.choice-box .label {
+    -fx-text-fill: rgba(230, 230, 230);
+}
+
+.choice-box .menu-item:focused {
+    -fx-background-color: #ffffff, transparent;
+    -fx-background-insets: 1px, 4px;
+    -fx-background-radius: 10px, 10px;
+}

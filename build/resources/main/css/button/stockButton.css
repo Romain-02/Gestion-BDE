@@ -1,0 +1,16 @@
+/* CSS */
+.button {
+    -fx-background-color: transparent, linear-gradient(from 25% 25% to 100% 100%, #AF40FF, #5B42F3);
+    -fx-background-insets: 8px, 10px;
+    -fx-background-radius: 4px, 4px;
+    -fx-font-family: "Comic Sans MS", sans-serif;
+    -fx-font-size: 20px;
+    -fx-pref-width: 50px;
+    -fx-pref-height: 50px;
+}
+
+.button:hover {
+    -fx-text-fill: rgba(255, 255, 255);
+    -fx-cursor: hand;
+    -fx-background-color: linear-gradient(from 0% 0% to 50% 50%, #AF40FF, #5B42F3), linear-gradient(from 0% 0% to 60% 60%, #5B42F3, #AF40FF);
+}

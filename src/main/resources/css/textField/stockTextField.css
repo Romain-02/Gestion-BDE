@@ -1,0 +1,11 @@
+/* CSS */
+.text-field {
+    -fx-text-fill: #00b2ff;
+    -fx-background-color: #9B62F3, #1a1a2e;
+    -fx-background-insets: 1px, 4px;
+    -fx-background-radius: 10px, 10px;
+    -fx-font-family: "Comic Sans MS", sans-serif;
+    -fx-font-size: 17px;
+    -fx-pref-width: 75px;
+    -fx-alignment: center;
+}

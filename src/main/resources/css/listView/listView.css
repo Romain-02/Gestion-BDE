@@ -1,0 +1,38 @@
+/* CSS */
+.list-view {
+    -fx-text-fill: rgba(30, 30, 30);
+    -fx-background-color: #9B62F3, #1a1a2e;
+    -fx-background-insets: 0px, 5px;
+    -fx-background-radius: 10px, 10px;
+    -fx-font-family: "DejaVu Sans Mono", sans-serif;
+    -fx-font-size: 17px;
+    -fx-padding: 6px;
+}
+
+.list-cell{
+    -fx-background-color: transparent;
+    -fx-text-fill: rgba(230, 230, 230);
+    -fx-padding: 15px;
+    -fx-start-margin: 20px;
+}
+
+.list-cell:odd {
+    -fx-background-color: #2b2b3f;
+}
+
+.scroll-bar {
+    -fx-background-color: transparent;
+    -fx-pref-width: 10px;
+}
+
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #9B62F3;
+    -fx-background-radius: 5;
+    -fx-pref-width: 2px;
+}
+
+.scroll-bar .increment-arrow,
+.scroll-bar .decrement-arrow {
+    -fx-background-color: transparent;
+}

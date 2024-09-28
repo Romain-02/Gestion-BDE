@@ -1,0 +1,12 @@
+/* CSS */
+.backToMenuButton {
+    -fx-text-fill: #00d2ff;
+    -fx-background-color: linear-gradient(from 0% 0% to 50% 50%, #5B42F3, #AF40FF), linear-gradient(from 25% 25% to 100% 100%, #AF40FF, #5B42F3);
+    -fx-background-insets: 2px, 5px;
+    -fx-background-radius: 10px, 10px;
+}
+
+.backToMenuButton:hover {
+    -fx-text-fill: #ffffff;
+    -fx-cursor: hand;
+}

@@ -1,0 +1,14 @@
+
+œ
+java:S1450!"TRemove the "stage" field and declare it as a local variable in the relevant methods.(‹ğÑœıÿÿÿÿ8ÅŸÖ¨…2J$ef1e599d-696f-4de6-b1d9-f7973a4b82e4
+r	java:S106<"+Replace this use of System.err by a logger.(îî²†øÿÿÿÿ8ËŸÖ¨…2J$4ff15378-660c-41e5-94c6-16df6ab82065
+€
+java:S1128"=Remove this unused import 'javafx.collections.FXCollections'.(´¶²Æ8ÎŸÖ¨…2J$5051c6a5-c9c2-4e2d-a8b8-cfb7a735d9ad
+†
+java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ8ÏŸÖ¨…2J$eac14c97-d05a-4e7d-b0cc-1879a0f77ba4
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÏŸÖ¨…2J$8cc10013-f368-4405-b6d4-4a8abce5f1c6
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÏŸÖ¨…2J$53481794-df80-452e-83ca-b2aaf0cc186b
+
+java:S1128"=Remove this unused import 'java.util.InputMismatchException'.(İ§18ÏŸÖ¨…2J$0917d058-bdbe-4e02-bc5e-73c8003673b5

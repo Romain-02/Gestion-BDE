@@ -1,0 +1,17 @@
+/* CSS */
+.menuButton {
+    -fx-background-color: linear-gradient(from 0% 0% to 50% 50%, #5B42F3, #AF40FF), linear-gradient(from 25% 25% to 100% 100%, #AF40FF, #5B42F3);
+    -fx-background-insets: 5px, 10px;
+    -fx-background-radius: 15px, 15px;
+    -fx-box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    -fx-color: #FFFFFF;
+    -fx-font-family: "Comic Sans MS", sans-serif;
+    -fx-font-size: 28px;
+}
+
+.menuButton:hover {
+    -fx-text-fill: rgba(255, 255, 255);
+    -fx-cursor: hand;
+    -fx-font-size: 32px;
+    -fx-background-color: linear-gradient(from 0% 0% to 50% 50%, #AF40FF, #5B42F3), linear-gradient(from 0% 0% to 60% 60%, #5B42F3, #AF40FF);
+}

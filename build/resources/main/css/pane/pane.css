@@ -1,0 +1,12 @@
+/* CSS */
+.pane {
+    -fx-text-fill: rgba(30, 30, 30);
+    -fx-background-color: #9B62F3, #1a1a2e;
+    -fx-background-insets: 0px, 5px;
+    -fx-background-radius: 10px, 10px;
+    -fx-color: #FFFFFF;
+    -fx-display: flex;
+    -fx-font-family: "DejaVu Sans Mono", sans-serif;
+    -fx-font-size: 17px;
+    -fx-padding: 6px;
+}
