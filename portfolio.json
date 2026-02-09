@@ -1,0 +1,10 @@
+{
+  "title": {
+    "fr": "Gestion des stocks du BDE",
+    "en": "BDE Stock Management"
+  },
+  "description": {
+    "fr": "Application JavaFX pour gérer les stocks et ventes du BDE. Elle permet de faciliter et centraliser le suivi des transactions.",
+    "en": "JavaFX application to manage BDE stock and sales. It simplifies and centralizes the tracking of transactions."
+  }
+}
